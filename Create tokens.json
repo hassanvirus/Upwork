@@ -1,5 +1,14 @@
 {
-  "Primitive": {},
+  "Primitive": {
+    "Background": {
+      "value": "#eb1414",
+      "type": "color"
+    },
+    "Text": {
+      "value": "#0819c5",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
