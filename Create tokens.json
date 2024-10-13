@@ -1,16 +1,5 @@
 {
-  "Primitive": {
-    "colors": {
-      "red": {
-        "value": "#FF0000",
-        "type": "color"
-      },
-      "blue": {
-        "value": "#0000ff",
-        "type": "color"
-      }
-    }
-  },
+  "Primitive": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
